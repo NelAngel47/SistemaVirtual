@@ -1,0 +1,138 @@
+
+
+body{
+	font-family: arial, helvetica;
+	background: 
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #990000;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 20px;
+display: block;
+}
+
+.center{
+display : flex;
+justify-content: center;
+align-items: center;
+backgraund : cornflowerblue;
+padding ; 20px;
+
+
+}
+.busca{
+display : flex;
+justify-content: center;
+align-items: center;
+backgraund : cornflowerblue;
+padding ; 20px;
+
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+#----------------------------------------------------------
+
+
+
+input {
+	font:inherit;
+}
+
+section {
+	min-height: 09vh;
+	display: flex;
+	align-items: center;
+}
+form {
+	margin: auto;
+}
+form > div {
+	display: flex;
+	background:#fff;
+	padding: 9px 242px 9px 242px;
+	border-radius: 30px;
+	border:2px solid #cad3dc;
+	box-shadow: rgba(255, 255, 255, 0.5) -8px -8px 15px,
+		rgba(0, 0, 0, 0.1) 10px 10px 10px,
+		rgba(255, 255, 255, 0.5) -8px -8px 15px inset,
+		rgba(0, 0, 0, 0.1) 10px 10px 10px inset;
+
+}
+form input {
+border:none;
+	background: transparent;
+	
+	font-weight: bold;
+	padding-left: 64px;
+	
+	
+}
+.parrafo1{
+
+    margin-left: 85px;
+	margin-right:35px;
+}
+.parrafo2{
+
+	margin-left: 85px;
+	margin-right:35px;
+}
+.parrafo3{
+
+	margin-left: 85px;
+	margin-right:35px;
+}
+.parrafo4{
+
+	margin-left: 85px;
+	margin-right:35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
